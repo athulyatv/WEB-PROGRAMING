@@ -1,0 +1,132 @@
+INLINE CSS
+<html>
+<body style="background-color:#f0f8ff">
+<h1 style="color:#5d8aa8;padding:10px;text-align:center;">CASCADING STYLE
+SHEET</h1>
+<fieldset>
+<p style="color:#873260;font-size:30px;text-align:justify;marginleft:20px;margin-right:20px;"><B><i>Cascading style sheet(CSS)</i></B> is a
+style sheet language used for describing the presentation of a document
+written in a markup language such as HTML.[1] CSS is a cornerstone
+technology of the World Wide Web, alongside HTML and JavaScript.[2]
+CSS is designed to enable the separation of presentation and content, including
+layout, colors, and fonts.[3] This separation can improve content accessibility,
+provide more flexibility and control in the specification of presentation
+characteristics, enable multiple web pages to share formatting by specifying
+the relevant CSS in a separate .css file which reduces complexity and repetition
+in the structural content as well as enabling the .css file to be cached to
+improve the page load speed between the pages that share the file and its
+formatting.</p>
+<p style="color:#873260;font-size: 30px; text-align: justify; margin-left: 20px;
+margin-right: 20px;">Separation of formatting and content also makes it
+feasible to present the same markup page in different styles for different
+rendering methods, such as on-screen, in print, by voice (via speech-based
+browser or screen reader), and on Braille-based tactile devices. CSS also has
+rules for alternate formatting if the content is accessed on a mobile device.[4]
+The name cascading comes from the specified priority scheme to determine
+which style rule applies if more than one rule matches a particular element.
+This cascading priority scheme is predictable.
+The CSS specifications are maintained by the World Wide Web Consortium
+(W3C). Internet media type (MIME type) text/css is registered for use with CSS
+by RFC 2318 (March 1998). The W3C operates a free CSS validation service for
+CSS documents.[5]
+In addition to HTML, other markup languages support the use of CSS including
+XHTML, plain XML, SVG, and XUL.</p>
+</fieldset>
+</body>
+</html>
+
+INTRENAL CSS
+<html>
+<style>
+body{ background-color: #f0f8ff;}
+h1{color: :#5d8 aa8;padding:10 px; textalign: center;}
+P {color:#873260;font-size: 30px;text-align: justify;margin-left: 20px;marginright: 20px;}
+</style>
+<body>
+<h1>CASCADING STYLE SHEET</h1>
+<fieldset>
+<p><b><i>cascading style sheet(CSS)</b></i> is a style sheet language used for
+describing the presentation of a document written in a markup language such
+as HTML.[1] CSS is a cornerstone technology of the World Wide Web,
+alongside HTML and JavaScript.[2]
+CSS is designed to enable the separation of presentation and content, including
+layout, colors, and fonts.[3] This separation can improve content accessibility,
+provide more flexibility and control in the specification of presentation
+characteristics, enable multiple web pages to share formatting by specifying
+the relevant CSS in a separate .css file which reduces complexity and repetition
+in the structural content as well as enabling the .css file to be cached to
+improve the page load speed between the pages that share the file and its
+formatting.</p>
+<p>Separation of formatting and content also makes it feasible to present the
+same markup page in different styles for different rendering methods, such as
+on-screen, in print, by voice (via speech-based browser or screen reader), and
+on Braille-based tactile devices. CSS also has rules for alternate formatting if
+the content is accessed on a mobile device.[4]
+The name cascading comes from the specified priority scheme to determine
+which style rule applies if more than one rule matches a particular element.
+This cascading priority scheme is predictable.
+The CSS specifications are maintained by the World Wide Web Consortium
+(W3C). Internet media type (MIME type) text/css is registered for use with CSS
+by RFC 2318 (March 1998). The W3C operates a free CSS validation service for
+CSS documents.[5]
+In addition to HTML, other markup languages support the use of CSS including
+XHTML, plain XML, SVG, and XUL.</p>
+</fieldset>
+</body>
+</html>
+
+EXTERNAL CSS
+<html>
+<head>
+<link rel="stylesheet" href="typeofcss.css">
+</head>
+<body>
+<h1>CASCADING STYLE SHEET</h1>
+<fieldset>
+<p><i><b>Cascading style sheet(CSS)</b></i> is a style sheet language used for
+describing the presentation of a document written in a markup language such
+as HTML.[1] CSS is a cornerstone technology of the World Wide Web,
+alongside HTML and JavaScript.[2]
+CSS is designed to enable the separation of presentation and content, including
+layout, colors, and fonts.[3] This separation can improve content accessibility,
+provide more flexibility and control in the specification of presentation
+characteristics, enable multiple web pages to share formatting by specifying
+the relevant CSS in a separate .css file which reduces complexity and repetition
+in the structural content as well as enabling the .css file to be cached to
+improve the page load speed between the pages that share the file and its
+formatting.</p>
+<p>Separation of formatting and content also makes it feasible to present the
+same markup page in different styles for different rendering methods, such as
+on-screen, in print, by voice (via speech-based browser or screen reader), and
+on Braille-based tactile devices. CSS also has rules for alternate formatting if
+the content is accessed on a mobile device.[4]
+The name cascading comes from the specified priority scheme to determine
+which style rule applies if more than one rule matches a particular element.
+This cascading priority scheme is predictable.
+The CSS specifications are maintained by the World Wide Web Consortium
+(W3C). Internet media type (MIME type) text/css is registered for use with CSS
+by RFC 2318 (March 1998). The W3C operates a free CSS validation service for
+CSS documents.[5]
+In addition to HTML, other markup languages support the use of CSS including
+XHTML, plain XML, SVG, and XUL.</p>
+</fieldset>
+</body>
+</html>
+
+Typeofcss.css
+body{
+background-color: #f0f8ff; 
+}
+h1{
+color:#5d8aa8;
+padding:10px;
+text-align: center;
+}
+p{
+color:#873260;
+font-size: 30px;
+text-align: justify;
+margin-left: 20px;
+margin-right: 20px;
+}
+OUTPUT
